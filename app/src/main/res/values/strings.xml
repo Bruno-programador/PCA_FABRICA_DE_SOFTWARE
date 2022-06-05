@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PCA_FABRICA_DE_SOFTWARE</string>
+
+    <string-array name="eletrodomesticos">
+        <item>Lampada</item>
+        <item>Maquina de lavar</item>
+        <item>Microondas</item>
+        <item>Chuveiro eletrico</item>
+    </string-array>
+</resources>
